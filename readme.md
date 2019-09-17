@@ -26,7 +26,7 @@ Visit Demo Zone (https://portal.enablex.io/demo-zone/) to request a Guided Demo 
 * Register with EnableX [https://www.enablex.io] 
 * Create your Application
 * Get your App ID and App Key delivered to your Email
-* Clone or download this Repository [https://github.com/EnableX/Sample-Laravel-Web-App-Multiparty-RTC.git] & follow the steps further 
+* Clone or download this Repository [https://github.com/EnableX/Multiparty-Video-Calling-Laravel-Open-Source-Application.git] & follow the steps further 
 * You can copy the app into any sub-directory of hosted Website on Apache
 
 #### 3.1.2 SSL Certificates
